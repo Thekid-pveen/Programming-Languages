@@ -5,6 +5,5 @@
 <h3>The more you code, the better you become at coding.</h3>
 <br>
 <p>Just simple - I'm just practicing the programming languages so I can make this Repo.</p>
-<br>
 <hr>
 
