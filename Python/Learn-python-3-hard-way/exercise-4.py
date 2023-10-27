@@ -1,3 +1,10 @@
 # title: Variables and Names
-# the variables are important roles in programming, think like a Pro.
+# The variables are important roles in programming, think like a Pro.
 
+my_name = "praveen"
+age = 21
+pro = "programmer"
+dev = "developer"
+cyber = "hacker"
+
+print("my name is",my_name,"my age is",age,"I'm a",pro,dev,"and",cyber,".")
