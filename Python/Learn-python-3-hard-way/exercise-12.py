@@ -11,4 +11,4 @@ diff=input("input() takes no keyword arguments")
 print(diff)
 
 print(f"""ok. Now you learn {py} and your mindset is {ecs}.
-Do you know AI: {ai}.""") 
+you know AI: {ai}.""") 
