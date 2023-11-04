@@ -1,9 +1,21 @@
-<h1>Programming Lanugages</h1>
-<p>Base of Programming</p>
-<hr>
-<b>practice practice practice</b>
-<h3>The more you code, the better you become at coding.</h3>
-<br>
-<p>Just simple - I'm just practicing the programming languages so I can make this Repo.</p>
-<hr>
+<h1 align="left">Programming Lanuages</h1>
 
+###
+
+<h4 align="left">Programming language is used to you can interact with computers what do to. the programming language landscape is constantly evolving, and new languages are emerging all the time They are also likely to remain in high demand in the future due to their features and suitability for developing modern applications.<br><br>However, the well-established languages listed above, such as Python, JavaScript, Java, C/C++, and Go, continue to be in high demand due to their features and suitability for developing modern applications. These languages have a strong community of developers who contribute to their libraries and frameworks, making them even more powerful and versatile.</h4>
+
+###
+
+<h1 align="left">Programmer</h1>
+
+###
+
+<h4 align="left">The more you can code, the better you become at coding.</h4>
+
+###
+
+<div align="center">
+  <img width="500" height="250" src="https://hackernoon.com/images/f2px36fy.gif"  />
+</div>
+
+###
