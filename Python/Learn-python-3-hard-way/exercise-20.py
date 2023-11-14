@@ -1,6 +1,12 @@
 # title: Functions and Files
 # I'm not learned at this point
 
+"""
+Study Drills:
+1. Write a comment for each line to understand what that line does.
+
+"""
+
 from sys import argv
 
 script, input_file = argv
