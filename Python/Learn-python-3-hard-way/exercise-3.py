@@ -1,6 +1,21 @@
 # title: Numbers and Math
 # numbers and math are very interesting and fun
 
+"""
+STUDY DRILLS:
+-------------
+These are Arithmetic Operators and more Operators are there.
+• +: plus
+• -: minus
+• /: slash
+• *: asterisk
+• %: percent
+• <: less-than
+• >: greater-than
+• <=: less-than-equal
+• >=: greater-than-equa
+"""
+
 print("-Addition-")
 print(99 + 1)
 
