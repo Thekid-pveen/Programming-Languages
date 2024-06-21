@@ -1,0 +1,36 @@
+body {
+    background: black;
+    color: white;
+    height: 500vh;
+}
+header {
+    margin: 30px;
+    font-size: 70px;
+    background: white;
+    color: black;
+    padding: 10px;
+    border: 3px solid darkgreen;
+    position: relative;
+    width: 44%;
+    height: 13vh;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke;
+}
+h3 {
+    position: relative;
+    left: 50px;
+    font-size: 45px;
+}
+p {
+    font-size: 30px;
+    position: relative;
+    left: 90px;
+    top: -10px;
+    width: 80%;
+}
+ul {
+    font-size: 29px;
+    position: relative;
+    left: 110px;
+    font-weight: bold;
+}
