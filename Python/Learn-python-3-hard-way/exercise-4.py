@@ -3,8 +3,9 @@
 
 my_name = "praveen"
 age = 21
-pro = "programmer"
-dev = "developer"
+who = "programmer"
+like = "developer"
 cyber = "hacker"
 
-print("my name is",my_name,"my age is",age,"I'm a",pro,dev,"and",cyber,".")
+print("my name is",my_name,"my age is",age,"I'm a",who,"and",cyber,".")
+ 	
