@@ -34,3 +34,32 @@ ul {
     left: 110px;
     font-weight: bold;
 }
+a {
+    position: relative;
+    left: 90px;
+    font-size: 30px;
+    color: white;
+    text-underline-offset: 10px;
+}
+a:hover {
+    color: lawngreen;
+}
+a:active {
+    color: blue;
+}
+code {
+    color: black;
+    background: whitesmoke;
+    position: relative;
+    bottom: 10px;
+    left: 90px;
+    padding: 11px;
+}
+code:hover {
+    color: lawngreen;
+    background: black;
+    border: 2px solid white;
+}
+.tab {
+    border: none;
+}

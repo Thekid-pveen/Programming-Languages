@@ -1,5 +1,10 @@
 # title: Printing, Printing, Printing
 # Just Following and Keep Going The Book
+"""
+STUDY DRILLS:
+-------------
+I'm just add a new stuff '\n', Just Keep Going...
+"""
 
 days = "Sun Mon Tue Wed Thu Fri Sat"
 months = " Jan\n Feb\n Mar\n Apr\n May\n Jun\n Jul\n Aug\n Set\n Nov\n Dec"
