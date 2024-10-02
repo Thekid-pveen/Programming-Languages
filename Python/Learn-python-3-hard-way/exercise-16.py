@@ -1,5 +1,15 @@
 # title: Reading and Writing Files
-# now we are working with files
+# Now we are working with files
+
+"""
+STUDY DRILLS:
+-------------
+In this exercise we are working on a file in writing, the opening command was just open(),
+the task was writing so we used 'w' in the file, open(file, 'w'),
+And we want to erase the file, so the method is truncate(),
+input into the writing on the file what is the writing command or method,
+Just write(), and you comment out, and it's easy to understand.
+"""
 from sys import argv 
 
 script, filename = argv
