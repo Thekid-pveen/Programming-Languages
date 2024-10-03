@@ -1,6 +1,13 @@
 # title: Functions and Variables
 # blocks of code
-
+"""
+STUDY DRILLS:
+-------------
+The variables in the function are not connected to the variables in our script
+This exercise allows us to put the function to values of different types.
+We can give it straight numbers. We can give it variables. We can give
+it math. We can even combine math and variables.
+"""
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
         print(f"You have {cheese_count} cheese!")
         print(f"You have {boxes_of_crackers} boxes of crackers!")
