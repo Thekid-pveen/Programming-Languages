@@ -3,8 +3,9 @@
 
 """
 Study Drills:
-1. Write a comment for each line to understand what that line does.
-
+Write a comment for each line to understand what that line does. make sure I clarify that
+argv, and three functions, the first function is to read the file, the second function goes 
+on the poniter position and the third function is printing line just using number.
 """
 
 from sys import argv
